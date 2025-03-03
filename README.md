@@ -15,3 +15,4 @@ As I continue my college journey, I aim to balance my studies, hobbies, and soci
 - Elementary: Adventus Learning Center
 
 ## My Projects
+Midterm lab task1 [Data Cleaning and Preparation using Excel](Midterm%20lab1)
