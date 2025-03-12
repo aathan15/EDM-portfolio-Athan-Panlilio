@@ -44,16 +44,16 @@ on generating insights that will answer the ff: questions
 - Convert Min & Max Sal to currency and multiply by 1000
 - Group data by State Full Name (Transform → Group By → Average Min and Max Salary)
 ## Dataset Before Cleaninng and Transformation(Screenshot)
-![](image/Screenshot%202025-03-11%20124129.png)
+![](Screenshot%202025-03-11%20124129.png)
 ## Dataset After cleaning and Transformation (Screenshot)
-![](image/Screenshot%202025-03-11%20124427.png)
+![](after%20data%20cleaning.PNG)
 ### Screenshot every queries
 #### Sal by Role Type dup
-![sal by role type dup](image/Sal%20by%20role%20type%20dup.png)
+![sal by role type dup](sal%20dup.PNG)
 #### Sal by Role Size ref
-![Sal by Role Size ref](image/sal%20by%20role%20size%20ref.png)
+![Sal by Role Size ref](sa%20by%20role%20size.PNG)
 #### Sal by States ref
-![Sal by States ref](image/Sal%20by%20state%20ref.png)
+![Sal by States ref](sal%20by%20state%20ref.PNG)
 
 ## Viewing Dependencies and References(SEE Screenshot)
-![Query Dependencies](image/Query%20dependencies.png)
+![Query Dependencies](Query.PNG)
