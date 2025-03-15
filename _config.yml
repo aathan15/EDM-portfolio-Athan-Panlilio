@@ -1,1 +1,15 @@
+title: "EDM Portfolio"
+description: "Enterprise Data Management Portfolio"
+author: "Panlilio Athan John T."
+remote_theme:  pages-themes/hacker@v0.2.0
+Logo: ""
 
+Show_downloads: true
+
+gituhb:
+     is_project_page: true
+
+plugins:
+  - jekyll-remote-theme
+ 
+    
