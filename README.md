@@ -17,3 +17,4 @@ As I continue my college journey, I aim to balance my studies, hobbies, and soci
 ## My Projects
 ## Midterm lab task1 [Data Cleaning and Preparation using Excel](Midterm%20lab1)
 ## Midterm lab task2 [Data cleaning and transformation using power query](midterm%20lab%20task%202)
+## Midterm lab taks3 [Creating pivot table and chart](Midterm%20lab%20task3)
