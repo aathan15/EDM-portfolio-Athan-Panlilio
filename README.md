@@ -2,7 +2,7 @@
 This portfolio will contain copies of my Enterprise Data Management Lab Activities/Exercises
 
 ## About Me
-![](IMG%2020250319%20173210%20487.jpg)
+![](images/IMG%2020250319%20173210%20487.jpg)
 My name is Athan John T. Panlilio, and I am currently a first-year college student pursuing a Bachelor of Science in Information Systems (BSIS). I’m excited about the journey ahead in this field, where I hope to expand my knowledge and skills in technology. As I take my first steps in the world of programming, I’m learning the fundamentals of C and currently delving into Python, a language I find both interesting and versatile. I look forward to gaining a deeper understanding of coding and systems development as I progress in my studies.
 
 When I’m not focusing on my academics, I enjoy spending my free time playing basketball. It’s a great way for me to stay active, challenge myself, and unwind. The energy of the game and teamwork are things I truly enjoy, and it’s always a good time when I get together with friends for a friendly match. Outside of basketball, I love hanging out with my friends, whether it’s simply bonding over casual conversations or doing fun activities together. They provide me with a great sense of support and motivation throughout my college life.
