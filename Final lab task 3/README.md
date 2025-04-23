@@ -22,16 +22,16 @@ Create a table named *products* with the following fields:
 `price`: Decimal
 #### CODE:
 `CREATE TABLE products (id INT(3) UNIQUE AUTO_INCREMENT PRIMARY KEY, product_name VARCHAR(100) NOT NULL, 
-price FLOAT(7,4) NOT NULL);`
+price FLOAT(7,2) NOT NULL);`
 #### HERE IS THE QUERY STATEMENT AND TABLE STRUCTURE
-![](image/Screenshot%202025-04-12%20145310.png)
+![](image/491006932_1227263082075270_1380943647427114441_n.jpg)
 
 ## TASK 2: 
 Add a `CHECK` constraint to ensure that the `price` of the product must be greater than 0.
 #### CODE:
 `ALTER TABLE products MODIFY COLUMN price FLOAT(7,2) CHECK (price > 0);`
 #### HERE IS THE QUERY STATEMENT AND TABLE STRUCTURE
-![](image/Screenshot%202025-04-12%20145356.png)
+![](image/491025487_1019014746394006_8642459599337039131_n.jpg)
 
 ## TASK 3: Insert the products that will not violate the check constraint into the products table:
 - Product 1: "Laptop", 999.99
@@ -47,19 +47,19 @@ Add a `CHECK` constraint to ensure that the `price` of the product must be great
 #### CODE:
 (I insert only the greater than 0 not with the negative value)
 `INSERT INTO products(id, product_name, price) VALUES (1, 'Laptop', 999.99), (3, 'Smartphone', 599.99), (4, 'Tablet', 299.99),
- (6, 'Keyboard', 19.99), (7, 'Mouse', 14.99), (8, 'Desk Lamp', 24.99),  (10, 'Speakers', 9.99);`
+ (6, 'Keyboard', 19.99), (7, 'Mouse', 14.99), (8, 'Desk Lamp', 24.99),  (10, 'Speakers', 9.99);`  `SELECT * FROM products;`
 #### HERE IS THE QUERY STATEMENT AND TABLE STRUCTURE
-![](image/Screenshot%202025-04-12%20145502.png)
+![](image/490979359_715611267801923_2059859873524771511_n.jpg)
 
 ## TASK 4:
  Modify the `product_name` field to have a maximum length of 120 characters.
 #### CODE:
 ` ALTER TABLE products MODIFY COLUMN product_name VARCHAR(120) NOT NULL;`
 #### HERE IS THE QUERY STATEMENT AND TABLE STRUCTURE
-![](image/Screenshot%202025-04-12%20145530.png)
+![](image/485840828_686627090575561_2682676086242757248_n.jpg)
 
 ### HERE IS THE ER DIAGRAM
-![](image/Screenshot%202025-04-12%20151511.png)
+![](image/485295815_1725803511678168_7715549010787213266_n.jpg)
 #### HERE IS THE MYSQL FILE
-[Products Table](file/task_3_db_products.sql)  
+[Products Table](file/task_3_products.sql)  
  
